@@ -1,0 +1,49 @@
+{
+  "product_data": [
+    {
+      "category": "침대 & 매트리스",
+      "sub_category": "침구",
+      "detail_category": "INNEHÅLLSRIK 인네홀스리크 쿠션커버",
+      "id ": 16,
+      "images": [
+        "https://www.ikea.com/kr/ko/images/products/innehallsrik-cushion-cover__0549396_PE657665_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/innehallsrik-cushion-cover__0549406_PE657673_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/innehallsrik-cushion-cover__0712262_PE728703_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/innehallsrik-cushion-cover__0712261_PE728705_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/innehallsrik-cushion-cover__0615535_PH149121_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/innehallsrik-cushion-cover__0617336_PH149099_S5.JPG?f=s"
+      ],
+      "product_number": "904.038.51",
+      "explaination": "인도 북부 우타르프라데시 지역의 솜씨 좋은 여성 수공예 장인들이 만든 핸드메이드 제품입니다. IKEA 제품 생산에 참여함으로써 장기적인 생계 수단을 마련하는 동시에 자기 자신과 가족에게 더욱 안정된 미래를 준비할 수 있습니다.",
+      "size": "50x50 cm",
+      "name": "INNEHÅLLSRIK 인네홀스리크",
+      "price": 16900,
+      "is_sale": false,
+      "sub_info": "쿠션커버, 핸드메이드 블루, 50x50 cm"
+    },
+    {
+      "category": "조명",
+      "detail_category": "YPPERLIG 위펠리그 LED 탁상스탠드",
+      "explaination": "좋아하는 암체어에 앉은 채로 간편하게 사용할 수 있는 탁상스탠드입니다. 스탠드 헤드의 버튼을 이용해서 조명을 켜고 끄며 밝기를 조절할 수 있습니다. 또한 각도를 유연하게 돌릴 수 있어 방향 조절도 가능합니다.",
+      "id ": 14,
+      "images": [
+        "https://www.ikea.com/kr/ko/images/products/ypperlig-led-table-lamp__0609330_PE684457_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/ypperlig-led-table-lamp__0880908_PE634547_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/ypperlig-led-table-lamp__0880916_PE634548_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/ypperlig-led-table-lamp__0880924_PE634549_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/ypperlig-led-table-lamp__0592859_PH146295_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/ypperlig-led-table-lamp__0592795_PH146017_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/ypperlig-led-table-lamp__0593817_PH147120_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/ypperlig-led-table-lamp__0593829_PH147606_S5.JPG?f=s",
+        " https://www.ikea.com/kr/ko/images/products/ypperlig-led-table-lamp__0619811_PH148857_S5.JPG?f=s"
+      ],
+      "is_sale": false,
+      "name": "YPPERLIG 위펠리그",
+      "price": 69900,
+      "product_number": "503.499.03",
+      "size": "32 cm",
+      "sub_category": "조명",
+      "sub_info": "탁상스탠드, 32 cm"
+    }
+  ]
+}

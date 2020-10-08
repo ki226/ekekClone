@@ -1,0 +1,231 @@
+{
+  "FurnishingData": [
+    {
+      "background_img": "https://www.ikea.com/ext/ingkadam/m/6aa8ee4b0e1d046d/original/PH156515-crop001.jpg",
+      "id": 1,
+      "product": [
+        {
+          "product_name": "LIVSÅR 리브소르",
+          "product_position_top": "56%",
+          "product_position_left": "45%",
+          "product_category": "장식조명",
+          "product_price": 24900
+        },
+        {
+          "product_name": "KÄMPIG 솀피그",
+          "product_position_top": "13%",
+          "product_position_left": "53%",
+          "product_category": "후크/벽수납",
+          "product_price": 2900
+        },
+        {
+          "product_name": "ÅRSTID 오르스티드",
+          "product_position_top": "32%",
+          "product_position_left": "26%",
+          "product_category": "조명",
+          "product_price": 42900
+        }
+      ]
+    },
+
+    {
+      "background_img": "https://www.ikea.com/ext/ingkadam/m/425c69d8aa99e148/original/PH156736-crop001.jpg",
+      "id": 2,
+      "product": [
+        {
+          "product_name": "SANELA 사넬라",
+          "product_position_top": "87%",
+          "product_position_left": "74%",
+          "product_category": "침구",
+          "product_price": 9900
+        },
+        {
+          "product_name": "NYMÅNE 뉘모네",
+          "product_position_top": "59%",
+          "product_position_left": "74%",
+          "product_category": "조명",
+          "product_price": 79900
+        },
+        {
+          "product_name": "BITTERGURKA 비테르구르카",
+          "product_position_top": "40%",
+          "product_position_left": "26%",
+          "product_category": "화분",
+          "product_price": 4900
+        }
+      ]
+    },
+
+    {
+      "background_img": "https://www.ikea.com/ext/ingkadam/m/60e07644eab62e3b/original/PH165551-crop001.jpg",
+      "id": 3,
+      "product": [
+        {
+          "product_name": "IDÅSEN 이도센",
+          "product_position_top": "32%",
+          "product_position_left": "66%",
+          "product_category": "식탁/책상",
+          "product_price": 299000
+        },
+        {
+          "product_name": "LIERSKOGEN 리에르스코겐",
+          "product_position_top": "16%",
+          "product_position_left": "59%",
+          "product_category": "스탠드 옷걸이/신발 수납",
+          "product_price": 99900
+        },
+        {
+          "product_name": "KUNGSFORS 쿵스포르스",
+          "product_position_top": "29%",
+          "product_position_left": "14%",
+          "product_category": "벽수납",
+          "product_price": 10000
+        },
+        {
+          "product_name": "RISATORP 리사토르프",
+          "product_position_top": "32%",
+          "product_position_left": "34%",
+          "product_category": "벽수납",
+          "product_price": 9900
+        }
+      ]
+    },
+    {
+      "background_img": "https://www.ikea.com/ext/ingkadam/m/10fdb13d3fb1d53c/original/PH156758-crop001.jpg",
+      "id": 4,
+      "product": [
+        {
+          "product_name": "ENEBY 에네뷔",
+          "product_position_top": "79%",
+          "product_position_left": "67%",
+          "product_category": "스피커",
+          "product_price": 69900
+        },
+        {
+          "product_name": "IVAR 이바르",
+          "product_position_top": "72%",
+          "product_position_left": "28%",
+          "product_category": "수납장/장식장",
+          "product_price": 100000
+        },
+        {
+          "product_name": "METOD 메토드",
+          "product_position_top": "61%",
+          "product_position_left": "70%",
+          "product_category": "METOD/메토드 주방수납장/앞판",
+          "product_price": 195000
+        },
+        {
+          "product_name": "YPPERLIG 위펠리그",
+          "product_position_top": "10%",
+          "product_position_left": "53%",
+          "product_category": "조명",
+          "product_price": 69900
+        },
+        {
+          "product_name": "KRAGSTA 크락스타",
+          "product_position_top": "68%",
+          "product_position_left": "39%",
+          "product_category": "식탁/책상",
+          "product_price": 99900
+        },
+        {
+          "product_name": "INNEHÅLLSRIK 인네홀스리크",
+          "product_position_top": "45%",
+          "product_position_left": "71%",
+          "product_category": "침구",
+          "product_price": 16900
+        }
+      ]
+    },
+    {
+      "background_img": "https://www.ikea.com/ext/ingkadam/m/58f72fde6a0f3573/original/PH158719-crop002.jpg",
+      "id": 5,
+      "product": [
+        {
+          "product_name": "SKURUP 스쿠루프",
+          "product_position_top": "18%",
+          "product_position_left": "42%",
+          "product_category": "조명",
+          "product_price": 49900
+        },
+        {
+          "product_name": "STRIMSPORRE 스트림스포레",
+          "product_position_top": "47%",
+          "product_position_left": "55%",
+          "product_category": "침구",
+          "product_price": 5900
+        },
+        {
+          "product_name": "LOHALS 로할스",
+          "product_position_top": "88%",
+          "product_position_left": "69%",
+          "product_category": "러그",
+          "product_price": 239000
+        }
+      ]
+    },
+    {
+      "background_img": "https://www.ikea.com/ext/ingkadam/m/7173bf07da74cf16/original/PH163611-crop002.jpg",
+      "id": 6,
+      "product": [
+        {
+          "product_name": "MEDLEM 메들렘",
+          "product_position_top": "57%",
+          "product_position_left": "26%",
+          "product_category": "커피/차",
+          "product_price": 1900
+        },
+        {
+          "product_name": "BRYTÄRT 브뤼테르트",
+          "product_position_top": "54%",
+          "product_position_left": "17%",
+          "product_category": "화분",
+          "product_price": 3900
+        },
+        {
+          "product_name": "BUSKBO 부스크보",
+          "product_position_top": "75%",
+          "product_position_left": "26%",
+          "product_category": "암체어 & 카우치",
+          "product_price": 99900
+        },
+        {
+          "product_name": "GURLI 굴리",
+          "product_position_top": "61%",
+          "product_position_left": "14%",
+          "product_category": "침구",
+          "product_price": 3900
+        },
+        {
+          "product_name": "KAFFEBÖNA 카페뵈나",
+          "product_position_top": "86%",
+          "product_position_left": "65%",
+          "product_category": "화분",
+          "product_price": 1000
+        },
+        {
+          "product_name": "GLADOM 글라돔",
+          "product_position_top": "64%",
+          "product_position_left": "55%",
+          "product_category": "식탁/책상",
+          "product_price": 14900
+        },
+        {
+          "product_name": "INNEHÅLLSRIK 인네홀스리크",
+          "product_position_top": "33%",
+          "product_position_left": "29%",
+          "product_category": "침구",
+          "product_price": 16900
+        },
+        {
+          "product_name": "SISSIL 시실",
+          "product_position_top": "23%",
+          "product_position_left": "42%",
+          "product_category": "침구",
+          "product_price": 19900
+        }
+      ]
+    }
+  ]
+}

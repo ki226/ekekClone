@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "category": "가구",
+      "description": "FLOTTEBO 플로테보 3인용모듈소파+소파베드",
+      "id": 57,
+      "images": [
+        "https://www.ikea.com/kr/ko/images/products/flottebo-sofa-bed__0714044_PE729893_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/flottebo-sofa-bed__0714039_PE729891_S5.JPG?f=s"
+      ],
+      "is_sale": false,
+      "name": "FLOTTEBO 플로테보 3인용모듈소파+소파베드",
+      "price": 649000,
+      "product_number": "492.974.72",
+      "score": "4.0",
+      "simple_name": "FLOTTEBO 플로테보",
+      "size": "120 cm",
+      "sub_category": "침대"
+    },
+
+    {
+      "category": "가구",
+      "description": "FLOTTEBO 플로테보 소파베드+보조테이블",
+      "id": 38,
+      "images": [
+        "https://www.ikea.com/kr/ko/images/products/flottebo-sofa-bed__0713783_PE729758_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/flottebo-sofa-bed__0713778_PE729756_S5.JPG?f=s"
+      ],
+      "is_sale": false,
+      "name": "FLOTTEBO 플로테보 소파베드+보조테이블",
+      "price": 699000,
+      "product_number": "192.974.59",
+      "score": "4.0",
+      "simple_name": "FLOTTEBO 플로테보",
+      "size": "120 cm",
+      "sub_category": "침대"
+    },
+
+    {
+      "category": "가구",
+      "description": "HOLMSUND 홀름순드 3인용소파베드",
+      "id": 84,
+      "images": [
+        "https://www.ikea.com/kr/ko/images/products/holmsund-corner-sofa-bed__0532354_PE648004_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/holmsund-corner-sofa-bed__0728013_PE735994_S5.JPG?f=s"
+      ],
+      "is_sale": false,
+      "name": "HOLMSUND 홀름순드 3인용소파베드",
+      "price": 849000,
+      "product_number": "092.282.06",
+      "score": "4.0",
+      "simple_name": "HOLMSUND 홀름순드",
+      "size": "",
+      "sub_category": "침대"
+    },
+    {
+      "category": "가구",
+      "description": "HOLMSUND 홀름순드 3인용소파베드",
+      "id": 90,
+      "images": [
+        "https://www.ikea.com/kr/ko/images/products/holmsund-corner-sofa-bed__0532354_PE648004_S5.JPG?f=s",
+        "https://www.ikea.com/kr/ko/images/products/holmsund-corner-sofa-bed__0728013_PE735994_S5.JPG?f=s"
+      ],
+      "is_sale": false,
+      "name": "HOLMSUND 홀름순드 3인용소파베드",
+      "price": 849000,
+      "product_number": "092.282.07",
+      "score": "4.0",
+      "simple_name": "HOLMSUND 홀름순드",
+      "size": "",
+      "sub_category": "침대"
+    }
+  ]
+}
